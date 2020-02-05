@@ -11,8 +11,8 @@
   "devDependencies": {},
   "scripts": {
     "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "build": "NODE_ENV=prod next build",
+    "start": "NODE_ENV=prod next start"
   },
   "keywords": [],
   "author": "",

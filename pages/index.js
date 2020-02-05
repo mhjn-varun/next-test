@@ -3,4 +3,4 @@ const Index = () => (
       <p>Hello Next.js.....test</p>
     </div>
   )
-  export default Index
+  export default Index  
